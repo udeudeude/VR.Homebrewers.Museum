@@ -1,0 +1,17 @@
+# Converted from VROOM/BOX.3D on Virtual Reality Homebrewer's Handbook CD-ROM
+# Original coordinates and polygon indices preserved; original material information not reproduced.
+o VROOM_BOX
+v 0 0 0
+v 10 0 0
+v 10 10 0
+v 0 10 0
+v 0 0 10
+v 10 0 10
+v 10 10 10
+v 0 10 10
+f 2 6 7 3
+f 3 7 8 4
+f 4 8 5 1
+f 1 5 6 2
+f 6 7 8 5
+f 4 3 2 1
